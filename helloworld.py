@@ -1,4 +1,4 @@
 #!usr/bin/python3
 print ("Hello World")
 print ("Hello Git")
-print ("hello CTU")
+print ("hello CTU - CICT")
